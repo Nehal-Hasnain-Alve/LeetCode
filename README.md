@@ -10,5 +10,18 @@ Just for fun
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nehal-Hasnain-Alve/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/Nehal-Hasnain-Alve/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nehal-Hasnain-Alve/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nehal-Hasnain-Alve/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Nehal-Hasnain-Alve/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 <!---LeetCode Topics End-->
