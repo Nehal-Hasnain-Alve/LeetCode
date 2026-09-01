@@ -83,4 +83,8 @@ Just for fun
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Nehal-Hasnain-Alve/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Nehal-Hasnain-Alve/LeetCode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
